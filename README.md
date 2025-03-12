@@ -10,7 +10,7 @@
 
 - Full Stack Developer, Frontend heavy. Learning Python and AI.
 
-- Contact **ozturkiramazan@gmail.com**
+- Contact **hello@ramazanozturk.dev**
 
 <h3>Connect</h3>
 
