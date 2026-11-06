@@ -6,7 +6,7 @@
   Hi 👋 I'm Ramazan Öztürk
 </h2>
 
-Full-stack developer, frontend-heavy. I build with Next.js, React and TypeScript, and handle the backend and deploys as well: AdonisJS, PostgreSQL, Convex, Docker.
+Full-stack developer, frontend-heavy. I build with Next.js, React and TypeScript, and handle the backend and deploys as well: Node.js, AdonisJS, Convex, Docker.
 
 Most of my client work lives in private repos. My projects and experience are on [ramazanozturk.dev](https://ramazanozturk.dev).
 
